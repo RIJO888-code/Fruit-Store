@@ -4,7 +4,7 @@ import Hero from './components/Hero';
 import Menu from './components/Menu';
 import Banner from './components/Banner';
 import OrderSection from './components/OrderSection';
-import Contact from './components/contact';
+import Contact from './components/Contact';
 
 
 const App = () => {
